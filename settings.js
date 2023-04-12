@@ -27,9 +27,9 @@ global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = "RGh2N2UwdXE=" //session Id
+global.session = "session" //session Id
 global.ownernomer = "923103297758" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+global.lang = "ur" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['923103297758'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
